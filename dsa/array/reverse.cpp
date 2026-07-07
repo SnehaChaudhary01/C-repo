@@ -7,7 +7,6 @@ void reversearray(int num[], int size){
         start++;
         end--;
     }
-
 }
 int main(){
     int num[] = {11,22,33,44,55,66};
